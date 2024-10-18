@@ -1,5 +1,5 @@
 function add(a,b){
-
-return 0;
+// código opara corregir el error
+  return a+b;
 
 }
